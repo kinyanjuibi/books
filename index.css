@@ -1,0 +1,83 @@
+.video-title {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 24px;
+  margin-bottom: 5px;
+}
+
+.video-stats {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  color: grey;
+  margin-top: 20px;
+}
+.video-author {
+  font-family: Arial, Helvetica, sans-serif;
+  color: grey;
+  font-size: 14px;
+  margin-bottom: 0;
+}
+
+.video-discription {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  color: black;
+  width: 300px;
+  line-height: 20px;
+  margin-bottom: 30px;
+}
+
+.apple-text {
+  margin-bottom: 50px;
+  font-size: 14px;
+  background-color: red;
+  color: white;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.shop-link {
+  cursor: pointer;
+}
+
+.shop-link:hover {
+  text-decoration: underline;
+}
+
+.subscribe-button {
+  background-color: red;
+  color: white;
+  border: none;
+  height: 36px;
+  width: 105px;
+  border-radius: 2px;
+  cursor: pointer;
+  margin-right: 8px;
+}
+
+.join-button {
+  background-color: white;
+  border-color: blue;
+  border-style: solid;
+  border-width: 1px;
+  color: rgb(41, 118, 211);
+  height: 36px;
+  width: 62px;
+  border-radius: 2px;
+  cursor: pointer;
+}
+
+.tweet-button {
+  background-color: blue;
+  color: white;
+  border: none;
+  height: 36px;
+  width: 74px;
+  border-radius: 8px;
+  border-radius: 18px;
+  font-weight: bold;
+  font-size: 15px;
+  cursor: pointer;
+  margin-left: 8px;
+}
